@@ -1,0 +1,64 @@
+tea-fusion/
+├── index.html
+├── styles.css
+└── scripts.js
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tea Fusion</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tea Fusion</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#events">Events</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+<main>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Welcome to Tea Fusion, where we blend tradition with innovation. Discover our wide range of exquisite teas and enjoy a unique tea experience.</p>
+        </section>
+
+        <section id="menu">
+            <h2>Our Menu</h2>
+            <p>Explore our carefully curated selection of teas.</p>
+            <ul>
+                <li>Green Tea - Fresh and invigorating.</li>
+                <li>Black Tea - Bold and robust.</li>
+                <li>Herbal Tea - Soothing and calming.</li>
+                <li>Special Blends - Unique combinations crafted in-house.</li>
+            </ul>
+        </section>
+
+        <section id="events">
+            <h2>Upcoming Events</h2>
+            <p>Join us for exciting events and tea tastings. Stay tuned for more details!</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Have questions? Reach out to us!</p>
+            <address>
+                <p>Email: info@teafusion.com</p>
+                <p>Phone: (123) 456-7890</p>
+                <p>Address: 123 Tea Street, Teaville, TE 45678</p>
+            </address>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Tea Fusion. All rights reserved.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
